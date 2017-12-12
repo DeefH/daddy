@@ -1,0 +1,2 @@
+# daddy
+subdomain putitin.me
